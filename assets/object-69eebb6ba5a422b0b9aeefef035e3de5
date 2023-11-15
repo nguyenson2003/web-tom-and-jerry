@@ -1,0 +1,89 @@
+
+object1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xonuoc
+  rotate: false
+  xy: 2, 2
+  size: 146, 304
+  orig: 146, 304
+  offset: 0, 0
+  index: -1
+ghe
+  rotate: false
+  xy: 150, 2
+  size: 576, 288
+  orig: 576, 288
+  offset: 0, 0
+  index: -1
+hutbui
+  rotate: false
+  xy: 728, 2
+  size: 211, 246
+  orig: 211, 246
+  offset: 0, 0
+  index: -1
+lohoa
+  rotate: false
+  xy: 2, 308
+  size: 126, 187
+  orig: 126, 187
+  offset: 0, 0
+  index: -1
+xecon
+  rotate: false
+  xy: 150, 292
+  size: 148, 141
+  orig: 148, 141
+  offset: 0, 0
+  index: -1
+hotrac
+  rotate: false
+  xy: 2, 497
+  size: 136, 133
+  orig: 136, 133
+  offset: 0, 0
+  index: -1
+locay
+  rotate: false
+  xy: 2, 632
+  size: 75, 126
+  orig: 75, 126
+  offset: 0, 0
+  index: -1
+ban
+  rotate: false
+  xy: 300, 292
+  size: 370, 110
+  orig: 370, 110
+  offset: 0, 0
+  index: -1
+giay
+  rotate: false
+  xy: 672, 292
+  size: 158, 78
+  orig: 158, 78
+  offset: 0, 0
+  index: -1
+dep
+  rotate: false
+  xy: 832, 292
+  size: 154, 56
+  orig: 154, 56
+  offset: 0, 0
+  index: -1
+cheese
+  rotate: false
+  xy: 79, 632
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 79, 665
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1

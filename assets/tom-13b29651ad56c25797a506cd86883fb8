@@ -1,0 +1,68 @@
+
+tom1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+catch1
+  rotate: false
+  xy: 2, 2
+  size: 178, 205
+  orig: 178, 205
+  offset: 0, 0
+  index: -1
+catch5
+  rotate: false
+  xy: 182, 2
+  size: 173, 200
+  orig: 173, 200
+  offset: 0, 0
+  index: -1
+catch2
+  rotate: false
+  xy: 2, 209
+  size: 247, 196
+  orig: 247, 196
+  offset: 0, 0
+  index: -1
+catch6
+  rotate: false
+  xy: 251, 209
+  size: 227, 189
+  orig: 227, 189
+  offset: 0, 0
+  index: -1
+catch3
+  rotate: false
+  xy: 2, 407
+  size: 237, 166
+  orig: 237, 166
+  offset: 0, 0
+  index: -1
+catch8
+  rotate: false
+  xy: 241, 407
+  size: 158, 163
+  orig: 158, 163
+  offset: 0, 0
+  index: -1
+catch7
+  rotate: false
+  xy: 2, 575
+  size: 181, 156
+  orig: 181, 156
+  offset: 0, 0
+  index: -1
+catch4
+  rotate: false
+  xy: 185, 575
+  size: 242, 101
+  orig: 242, 101
+  offset: 0, 0
+  index: -1
+none
+  rotate: false
+  xy: 182, 204
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
